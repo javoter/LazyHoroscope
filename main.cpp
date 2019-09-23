@@ -19,6 +19,7 @@ int main()
 
  cout <<"Welcome, "<<firstName.at(0)<<" "<<lastName.at(0)<<" here is your fortune...";
 
+ cout <<"Your lucky number is "<<firstName.length()<<"."; 
 
  
 
