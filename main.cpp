@@ -10,16 +10,16 @@ int main()
  string lastName;
  
 
- cout <<" Enter first name ";
+ cout <<"Enter first name"<<endl;
  cin >> firstName;
  
- cout <<" Enter last name ";
+ cout <<"Enter last name"<<endl;
 
  cin >> lastName;
 
- cout <<"Welcome, "<<firstName.at(0)<<" "<<lastName.at(0)<<" here is your fortune...";
+ cout <<"Welcome, "<<firstName.at(0)<<" "<<lastName.at(0)<<" here is your fortune..."<<endl;
 
- cout <<"Your lucky number is "<<firstName.length()<<"."; 
+ cout <<"Your lucky number is "<<firstName.length()<<"."<<endl; 
 
  
 
