@@ -17,9 +17,9 @@ int main()
 
  cin >> lastName;
 
- cout <<"Welcome, "<<firstName.at(0)<<"."<<lastName.at(0)<<" here is your fortune..."<<endl;
+ cout <<"Welcome, "<<firstName.at(0)<<"."<<lastName.at(0)<<"., here is your fortune..."<<endl;
 
- cout <<"Your lucky number is "<<firstName.length()<<"."<<endl; 
+ cout <<"your lucky number is "<<firstName.length()<<endl; 
 
  
 
