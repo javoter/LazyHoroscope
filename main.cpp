@@ -10,10 +10,10 @@ int main()
  string lastName;
  
 
- cout <<"Enter first name"<<endl;
+ cout <<"What is your first name?"<<endl;
  cin >> firstName;
  
- cout <<"Enter last name"<<endl;
+ cout <<"What is your last name?"<<endl;
 
  cin >> lastName;
 
